@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,I'm Spandana S Huded</h1>
-<h4 align="center">A passionate Information Science student from India</h4><br>• 🌱 I'm currently learning Java, DSA & Web Development<br><br>• 💻 I'm currently working on building creative projects<br><br>• 🤝 I'm looking to collaborate on innovative tech projects<br><br>• 🎯 I'm passionate about Software Development & Problem Solving<br><br>• 💬 Ask me about C++, Python & Programming<br><br>
+<h3 align="center">A passionate Information Science student from India</h3><br>• 🌱 I'm currently learning Java, DSA & Web Development<br><br>• 💻 I'm currently working on building creative projects<br><br>• 🤝 I'm looking to collaborate on innovative tech projects<br><br>• 🎯 I'm passionate about Software Development & Problem Solving<br><br>• 💬 Ask me about C++, Python & Programming<br><br>
 
 
 # 💻 Languages and Tools:
