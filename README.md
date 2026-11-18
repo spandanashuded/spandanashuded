@@ -1,4 +1,4 @@
-# Hi👋,I'm Spandana S Huded:
+#<div align="center"><h2>Hi👋,I'm Spandana S Huded<div></h2>
 <div align="center">  <h5>A passionate Information Science student from India</h5></div><br>- 🌱 I'm currently learning Java, DSA & Web Development<br>- 💻 I'm currently working on building creative projects<br>- 🤝 I'm looking to collaborate on innovative tech projects<br>- 🎯 I'm passionate about Software Development & Problem Solving<br>- 💬 Ask me about C++, Python & Programming<br>- ⚡ Fun fact: Learning today, building tomorrow! 🚀
 
 
