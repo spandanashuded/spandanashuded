@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**spandanashuded/spandanashuded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# 💫 About Me:
-Hi 👋, I'm Spandana S Huded<br><br>A passionate Information Science student from India 🇮🇳<br><br>- 🌱 I'm currently learning Java, DSA & Web Development<br>- 💻 I'm currently working on building creative projects<br>- 🤝 I'm looking to collaborate on innovative tech projects<br>- 🎯 I'm passionate about Software Development & Problem Solving<br>- 💬 Ask me about C++, Python & Programming<br>- ⚡ Fun fact: Learning today, building tomorrow! 🚀
+# Hi👋,I'm Spandana S Huded:
+A passionate Information Science student from India 🇮🇳<br><br>- 🌱 I'm currently learning Java, DSA & Web Development<br>- 💻 I'm currently working on building creative projects<br>- 🤝 I'm looking to collaborate on innovative tech projects<br>- 🎯 I'm passionate about Software Development & Problem Solving<br>- 💬 Ask me about C++, Python & Programming<br>- ⚡ Fun fact: Learning today, building tomorrow! 🚀
 
 
 ## 🌐 Socials:
@@ -28,4 +22,3 @@ Hi 👋, I'm Spandana S Huded<br><br>A passionate Information Science student fr
 [![](https://komarev.com/ghpvc/?username=spandanashuded&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
